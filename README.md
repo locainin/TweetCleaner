@@ -8,7 +8,7 @@ A script in the console to identify and delete tweets or replies containing spec
     3.) Now, open the Developer Console in your web browser:
        - Chrome: Right-click on the page, select 'Inspect', then go to the 'Console' tab.
        - Firefox: Right-click on the page, select 'Inspect Element', then go to the 'Console' tab.
-    4.) Copy the entire script.
+    4.) Copy the entire script from the TweetCleaner.js file.
     5.) Paste the script into the console (the area where you see a blinking cursor) and hit 'Enter'.
     6.) The script will now automatically scroll through your tweets, check for any specified phrases or words, and delete any tweets that contain them.
 
