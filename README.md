@@ -3,12 +3,14 @@ A script in the console to identify and delete tweets or replies containing spec
 
 # INSTRUCTIONS:
 
-    1.) Ensure you are logged into your Twitter account.
-    2.) Replace @YourHandle in the code with your own Twitter handle.
-    3.) Add any phrases or words in a JSON format that you wish to check for in the 'swearWords' array in the script.
-    4.) On your keyboard, press F12 to open the developer console. Alternatively, you can right-click anywhere on the page, select 'Inspect', and then navigate to the 'Console' tab.
-    5.) Copy the entire script.
-    6.) Paste the script into the console (the area where you see a blinking cursor) and hit 'Enter'.
+    1.) Ensure you are logged into your Twitter account(Under 'Tweets', or 'Replies').
+    2.) Add any phrases or words in a JSON format that you wish to check for in the 'swearWords' array in the script.
+    3.) Now, open the Developer Console in your web browser:
+       - Chrome: Right-click on the page, select 'Inspect', then go to the 'Console' tab.
+       - Firefox: Right-click on the page, select 'Inspect Element', then go to the 'Console' tab.
+    4.) Copy the entire script.
+    5.) Paste the script into the console (the area where you see a blinking cursor) and hit 'Enter'.
+    6.) The script will now automatically scroll through your tweets, check for any specified phrases or words, and delete any tweets that contain them.
 
 # EXAMPLE:
 
